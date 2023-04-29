@@ -84,6 +84,7 @@ public class mergeSort {
 		out2.println("Total execution time for merge sort large list" + p + ": "+ (endTime3 - startTime3));
 
 
+			}
 
 			}
 			
